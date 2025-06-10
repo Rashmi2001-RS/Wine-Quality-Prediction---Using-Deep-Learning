@@ -36,7 +36,6 @@ This project builds a deep learning classification model to predict the quality 
 - Distribution plots of wine quality
 - Box plots and pair plots for exploratory analysis
 
-## ✍️ Author
-- Rashmi2001-RS
+
 
 
